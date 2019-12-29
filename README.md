@@ -1,0 +1,2 @@
+# RusT
+Rust Training
